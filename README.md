@@ -52,7 +52,7 @@ The edge detection process follows a six-step methodology:
 
 ### Visualisation
 
-![Algorithm Results](./Sample%20Dataset%20and%20Results/repo_figure.png)
+<img src="./Sample Dataset and Results/repo_figure.png" alt="Algorithm Results" width="600">
 
 **Figure**: Comparison of edge detection results showing (a) Original high-resolution facial images, (b) Canny edge detection output, (c) HED (Holistically-Nested Edge Detection) results, and (d) Proposed algorithm output. The proposed method demonstrates superior facial outline capture, enhanced edge continuity, and optimal balance between fine detail preservation and noise reduction.
 
