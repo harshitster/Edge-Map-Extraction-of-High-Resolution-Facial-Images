@@ -50,7 +50,6 @@ The edge detection process follows a six-step methodology:
 | HED       | Good          | Limited      | Moderate        | Medium         |
 | **Proposed** | **Excellent** | **High**     | **Strong**      | **Superior**   |
 
-```markdown
 ### Visualisation
 
 ![Algorithm Results](./Sample%20Dataset%20and%20Results/repo_figure.png)
@@ -61,7 +60,6 @@ The edge detection process follows a six-step methodology:
 - **Canny Results**: Fragmented edges with poor facial outline representation
 - **HED Results**: Better outline capture but limited fine detail precision  
 - **Proposed Algorithm**: Excellent facial contour definition with preserved fine details and strong edge connectivity
-```
 
 ## Applications
 - **Face Recognition**: Enhanced feature extraction for identification systems
