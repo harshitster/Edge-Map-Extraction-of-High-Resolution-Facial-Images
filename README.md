@@ -40,7 +40,7 @@ The edge detection process follows a six-step methodology:
 - **Subjective Assessment**: Human evaluator feedback on visual quality
 - **Multi-Dataset Validation**: Algorithm robustness across diverse image sets
 
-## 🏆 Comparative Results
+## Comparative Results
 
 ### Algorithm Performance Comparison
 
