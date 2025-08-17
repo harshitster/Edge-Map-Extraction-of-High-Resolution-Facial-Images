@@ -98,5 +98,6 @@ isbn="978-981-99-8612-5"
 - **Anirudh Koti** - ani040702@gmail.com
 - **Harsh Jolad** - harshjolad@gmail.com
 - **Dr. Preethi P** - preethip@pes.edu (Supervisor)
+
 *Department of Computer Science & Engineering*  
 *PES University, Bangalore, Karnataka, India*
